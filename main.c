@@ -17,4 +17,4 @@ int main(void){
 
 	return 0;
 }
-//Next step: creating a user interface!
+//Next step: creating a graphical user interface!
